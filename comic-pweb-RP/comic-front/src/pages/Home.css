@@ -1,0 +1,41 @@
+.home-img {
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.home-img:hover {
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: #ffffff;
+  padding: 2px;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+ 
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+  line-height: 2rem;
+  text-align: "center";
+  font-size: 15px;
+  font-weight: bold;
+  
+}
+
+body
+{
+
+  background-color: #434343;
+  
+}
+
